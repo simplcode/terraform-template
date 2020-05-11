@@ -1,6 +1,6 @@
 variable "env" {
-  default     = "example"
-  description = "example / dev / test / production"
+  default     = "dev"
+  description = "dev / test / production"
 }
 
 variable "profile" {
